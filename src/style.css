@@ -1,5 +1,26 @@
 @import "bootstrap/dist/css/bootstrap.min.css";
 
 body{
-    background: white;
+    background:green;
+    min-height: 100vh;
+    min-width: 100vh;
+}
+#cartaPrincipal{
+    height: 450px;
+    width: 350px;
+}
+#imagen1{
+    color: red;
+    font-size: 80px;
+    margin-left: 10px;
+}
+#number{
+    color: black;
+    font-size: 140px;
+}
+#imagen2{
+    color: red;
+    font-size: 80px;
+    margin-right: 10px;
+    rotate: 180deg;
 }
