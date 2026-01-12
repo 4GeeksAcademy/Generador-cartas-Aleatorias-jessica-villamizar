@@ -33,8 +33,6 @@ if (paloAleatorio == "♦" || paloAleatorio == "♥"){
   imagen2_Icon.style.color = "red"
 }
 
-document.getElementById("button").addEventListener("click", generarCarta);
-
 }
 
 
